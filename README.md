@@ -11,7 +11,7 @@ Desafio 02 concluido do modulo 2 na trilha de ReactJS do ignite.
 ![Novo Prato](https://github.com/RodrigoAndrade085/refactoring-classes-ts/blob/master/src/assets/new_plate.png)
 
 ### :spaghetti: Editar Prato:
-![EditPrato](https://github.com/RodrigoAndrade085/refactoring-classes-ts/blob/master/src/assets/edit_plate.png)
+![EditPrato](https://github.com/RodrigoAndrade085/refactoring-classes-ts/blob/master/src/assets/editing_plate.png)
 
 ### :computer: Rodando Projeto:
 
